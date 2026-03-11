@@ -53,6 +53,9 @@ python dedup_photos.py --scan /path/to/photos --interactive
 
 # 自动删除重复图片（保留质量最高的）
 python dedup_photos.py --scan /path/to/photos --auto-delete
+
+# 启动 GUI 界面
+python gui.py
 ```
 
 ## 项目结构
